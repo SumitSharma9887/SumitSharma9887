@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SumitSharma9887
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Python Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me :- sumitshamra9876.sj@gmail.com
 
 <!---
 SumitSharma9887/SumitSharma9887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
