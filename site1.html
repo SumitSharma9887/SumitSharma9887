@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Dropzone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form class="dropzone-box">
+        <h2>Upload and attach files</h2>
+        <p>Click to upload or drag and drop</p>
+        <div class="dropzone-area">
+            <div class="file-upload-icon"></div>
+            <input
+            type="file" required
+            id="upload-file" name="upload-file">
+            <p class="file-info">No Files Selected</p>
+        </div>
+        <div class="dropezone-action">
+            <button type="reset">Cancel</button>
+            <button id="submit-button" type="submit">Save</button>
+        </div>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
